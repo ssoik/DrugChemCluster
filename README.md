@@ -21,4 +21,4 @@ DrugBank All Structures dataset in CSV format (available at https://www.drugbank
 # Instructions
 Set variable target_drug to the exact DrugBank name for the drug of interest.
 
-Set variable similarity threshold to desired chemical similarity threshold.
+Set variable similarity_threshold to desired chemical similarity threshold.
