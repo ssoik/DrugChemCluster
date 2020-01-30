@@ -19,8 +19,8 @@ MatPlotLib 3.1.1+
 DrugBank All Structures dataset in CSV format (available at https://www.drugbank.ca/releases/latest#structures)
 
 # Instructions
-Set variable target_drug to the exact DrugBank name for the drug of interest.
+Set variable target_drug (dtype = str) to the exact DrugBank name for the drug of interest.
 
-Set variable similarity_threshold to desired chemical similarity threshold.
+Set variable similarity_threshold (dtype = float) to desired chemical similarity threshold.
 
 Run!
