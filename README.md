@@ -1,7 +1,7 @@
 # DrugChemCluster
 Find and cluster analyze drugs chemically similar to a target drug.
 
-Drug repurposing is an attractive alternative to traditional drug development, which is a very costly and time-consuming process. Here, I present cluster analyses of all known drugs chemically similar to two common medications, Ibuprofen and Levothyroxine. Among these are experimental drugs, drugs with the same usage, and drugs with the opposite usage, suggesting that further analysis could predict the most (or least) effective drugs to repurpose for a target usage. Ultimately, this project aims to streamline the drug repurposing research process.
+Drug repurposing is an attractive alternative to traditional drug development, which is a very costly and time-consuming process. Here, I present hierarchical cluster analyses of all known drugs chemically similar to two common medications, Ibuprofen and Levothyroxine, as well as drugs similar to all approved Non-steroidal anti-inflammatory drugs (NSAIDs). Among these are experimental drugs, drugs with the same usage, and drugs with the opposite usage, suggesting that further analysis could predict the most (or least) effective drugs to repurpose for a target usage. Ultimately, this project aims to streamline the drug repurposing research process.
 
 # Requirements
 Python 3.7+
