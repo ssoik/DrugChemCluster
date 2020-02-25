@@ -19,8 +19,15 @@ MatPlotLib 3.1.1+
 DrugBank All Structures dataset in CSV format (available at https://www.drugbank.ca/releases/latest#structures)
 
 # Instructions
+## X_clusters.ipynb
 Set variable target_drug (dtype = str) to the exact DrugBank name for the drug of interest.
 
-Set variable similarity_threshold (dtype = float) to desired chemical similarity threshold.
+Set variable similarity_threshold [0 <= (dtype = float) <= 1] to desired chemical similarity threshold.
+
+Run!
+## X_category.ipynb
+Set variable category (dtype = str) to the exact DrugBank category name of interest.
+
+Set variable similarity_threshold [0 <= (dtype = float) <= 1] to desired chemical similarity threshold.
 
 Run!
